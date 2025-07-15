@@ -1,7 +1,7 @@
 # 🔧 Hệ thống hiển thị, lưu log, cảnh báo nhiệt độ và điều khiển quạt tự động  
 **Automatic Fan Control and Temperature Logging System using Arduino**
 
-![Circuit](./path/to/your/image.png) <!-- Đổi path nếu bạn upload ảnh khác -->
+![Circuit]([./path/to/your/image.png](https://private-user-images.githubusercontent.com/181681048/466431246-c56b3779-456e-4fdc-9c89-f55ad3678795.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI1NzQyMzksIm5iZiI6MTc1MjU3MzkzOSwicGF0aCI6Ii8xODE2ODEwNDgvNDY2NDMxMjQ2LWM1NmIzNzc5LTQ1NmUtNGZkYy05Yzg5LWY1NWFkMzY3ODc5NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNVQxMDA1MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzc1NjBlNTBiZDM2ODk0ZTZiMDQyNzgzN2RjMDc0MjMzN2RlOTgzYzQ2YjE4ZmRhMDEzYzI0MzQ1MTAxN2JkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.xwiOeiYhwBEW2zSuF30dIVfJ8ejgo7CpAQkQ0oAzj9g)) <!-- Đổi path nếu bạn upload ảnh khác -->
 
 ---
 
