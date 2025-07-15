@@ -1,8 +1,7 @@
 # 🔧 Hệ thống hiển thị, lưu log, cảnh báo nhiệt độ và điều khiển quạt tự động  
 **Automatic Fan Control and Temperature Logging System using Arduino**
 
-<img width="933" height="834" alt="image" src="https://github.com/user-attachments/assets/f2b59ddb-1d8e-4e48-8439-6cec565cf014" />
-
+<img width="957" height="829" alt="image" src="https://github.com/user-attachments/assets/e26b339a-c6e5-4fad-86e7-03c12261afac" />
 
 ---
 
