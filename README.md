@@ -60,4 +60,3 @@ This project uses an **Arduino Uno** to build a temperature monitoring system th
 
 ### 1. Clone project
 ```bash
-git clone https://github.com/your_username/your_repo.git
